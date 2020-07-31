@@ -1,6 +1,6 @@
 # hello-world
 
-hey guys
-amateur here. Just learning how to use GitHub
+Hey guys
+Amateur here. I'm just learning how to use GitHub
 
-I code games!!!
+Although, I do code games!!!
